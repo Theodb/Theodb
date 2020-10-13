@@ -1,7 +1,8 @@
-### Hi there 👋
+### Currently in a PhD on Social emotion detection with multi-modal deep learning architecture in emergency call centers
 
 <!--
 **Theodb/Theodb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
