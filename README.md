@@ -1,6 +1,6 @@
-### Currently in a PhD on Social emotion detection with multi-modal deep learning architecture in emergency call centers
+### Currently doing a PhD on Multimodal Speech Emotion Recogntion with deep learning systems applied to emergency call centers recordings.
 
-Website: https://theodb.github.io/
+<!--Website: https://theodb.github.io/
 <!--
 **Theodb/Theodb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
