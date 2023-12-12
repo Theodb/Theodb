@@ -1,4 +1,4 @@
-### Currently doing a PhD on Multimodal Speech Emotion Recogntion with deep learning systems applied to emergency call centers recordings.
+### Currently doing a PhD on Multimodal Speech Emotion Recognition with deep learning systems applied to emergency call centers recordings.
 
 <!--Website: https://theodb.github.io/
 <!--
