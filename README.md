@@ -1,9 +1,12 @@
-# Hi there, I'm Théo 👋
+### What I work on
 
-### About me:
+- **[BidirLM](https://huggingface.co/BidirLM)** (COLM 2026): an open-source recipe that turns causal LLMs into text, image and audio encoders. 5 models released, 45k+ downloads. [Paper](https://arxiv.org/abs/2604.02045)
+- **[DocuFind](https://github.com/Theodb/DocuFind)**: a free, open-source macOS app that searches your documents, photos and recordings by meaning, fully on-device with BidirLM-Omni.
+- At [Diabolocom](https://www.diabolocom.com), I lead applied research on speech recognition, LLM judges and PII detection for enterprise clients.
 
-- 🎓 **Ph.D. in Computer Science** (September 2024) from [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), focusing on **multimodal approaches** and **transfer learning** with **Large Language Models (LLMs)** for **Speech Emotion Recognition (SER)**.
+### Background
 
-- 🎓 **Master’s in Artificial Intelligence** (2020) from [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), specialized in **Mathematics** and **Data Science**.
+- 🎓 **PhD in Computer Science**, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/) (LISN-CNRS, 2024): multimodal and transfer learning approaches for speech emotion recognition, applied to emergency call centers.
+- 🎓 **MSc in Artificial Intelligence**, [Université Paris-Saclay](https://www.universite-paris-saclay.fr/) × [École polytechnique](https://www.polytechnique.edu/) (2020).
 
-[![Google Scholar Citations](https://img.shields.io/badge/Google%20Scholar-Citations-blue)](https://scholar.google.com/citations?hl=fr&user=c1qB3dcAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=c1qB3dcAAAAJ) · [Hugging Face](https://huggingface.co/BidirLM) · [LinkedIn](https://www.linkedin.com/in/theodb/)
